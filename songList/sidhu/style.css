@@ -44,6 +44,7 @@ nav ul li a {
     align-items: center;
     font-weight: bolder;
     font-size: 1.3rem;
+    cursor: pointer;
 }
 
 .brand img {
@@ -179,7 +180,7 @@ nav ul li a {
 @media(max-width: 1110px) {
     .container {
         margin: 23px 40px;
-        background: none;
+
     }
 
     .songBanner img {
